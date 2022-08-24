@@ -1,4 +1,4 @@
-name: 'simple workflow pm2';
+name: 'simple workflow pm2'
 on: [push]
 jobs:
   check-pm2-version:
